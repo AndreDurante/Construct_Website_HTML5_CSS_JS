@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>HTML TEST 1</title>
+    <meta charset="utf-8">
+  </head>
+  <body style="background-color:#336699;">
+   <time datetime="2020-08-31"><b>31/08/2020</b></time>
+   <ul class="menu-toolbar">
+   		<li class="top1">Topic 1 Test</li>
+   		<li class="top2">Topic 2 Test</li>
+   		<li class="top3">Topic 3 Test</li>
+   		<li class="top4">Topic 4 Test</li><br>
+
+   <form>
+   	<label for="pnome"><u>Your name:</u></label><br>
+   	<input type="text" id="pnome" nome="pnome"><br>
+   	<label for= "snome"><u>Surname:</u></label><br>
+   	<input type= "text" id="snome" nome="snome">
+   		
+   	<button type="button">New Here? Click Here!</button>
+   	
+   	<br><br><a href="https://www.h2feng.com/webmail">Clique aqui para ir ao e-mail empresarial!</a>
+   	<a href="mailto:duranteplayer@gmail.com">Email Pessoal</a>
+    </form>	  
+
+    <article class="film_review">
+  <header>
+    <h2>PAG TEST HTML</h2>
+  </header>
+  <section class="main_review">
+    <p>Teste de Página Html?</p>
+  </section>
+  <section class="user_reviews">
+    <article class="user_review">
+      <p>yep, exactly a test pag in html.</p>
+      <footer>
+        <p>
+          Att in:
+          <time datetime="2015-05-16 19:00">1 Setembro</time>
+          by DuranteJr.
+        </p>
+      </footer>
+    </article>
+    <article class="user_review">
+      <p>I agree that HTML is cool...</p>
+      
+  </footer>
+</article>
+
+    </body>
+</html>
